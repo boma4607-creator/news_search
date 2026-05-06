@@ -257,7 +257,7 @@ def llm_compare(query, naver_items, google_items):
 4. 📝 전체 요약"""
 
     res = client.chat.completions.create(
-        model="llama3-8b-8192",
+        model="llama-3.3-70b-versatile",
         messages=[
             {"role": "system", "content": "당신은 뉴스 비교 분석 전문가입니다."},
             {"role": "user",   "content": prompt},
