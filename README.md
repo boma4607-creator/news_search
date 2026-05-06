@@ -2,8 +2,8 @@
 
 > Naver + Google 뉴스 비교 · Groq AI 요약 · PostgreSQL 클라우드 저장
 
-🌐 **사이트**: https://newssearch-j2njeoappxhlzgdtrah3wwr.streamlit.app/
-💻 **GitHub**: https://github.com/your-id/news-search
+🌐 **사이트**: https://newssearch-j2njeoappxhlzgdtrah3wwr.streamlit.app
+💻 **GitHub**:[ ](https://github.com/boma4607-creator/news_search)
 
 ---
 
